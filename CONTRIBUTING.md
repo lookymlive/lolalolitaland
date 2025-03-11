@@ -1,4 +1,4 @@
-## 🤝 Cómo Contribuir
+# 🤝 Cómo Contribuir
 
 Las contribuciones son lo que hacen que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear. ¡Cualquier contribución que hagas es **muy apreciada**!
 
@@ -16,7 +16,7 @@ Aquí tienes una guía rápida:
 
 Por favor, consulta nuestra [guía de contribución aquí](https://github.com/midudev/lolalolitaland.com/blob/master/CONTRIBUTING.md) para saber cómo puedes empezar de la mejor manera y siguiendo [buenas prácticas](https://github.com/midudev/lolalolitaland.com/blob/main/CONTRIBUTING.md#buenas-prácticas-).
 
-### Contribuir desde Stackblitz
+## Contribuir desde Stackblitz
 
 Si quieres contribuir de una manera más sencilla, puedes iniciar este proyecto desde _Stackblitz_ usando tu cuenta de GitHub:
 
@@ -91,7 +91,6 @@ Ejemplo: `feat: add newsletter subscription component`
 
 ## Estructura del Proyecto
 
-```
 └── 📁lolalolitaland.com
     └── 📁public <-- images, fonts, Svgs
     └── 📁src
@@ -101,6 +100,3 @@ Ejemplo: `feat: add newsletter subscription component`
         └── 📁pages
         └── 📁sections
         └── 📁styles
-```
-
-<p align="right"><a href="#readme-top">volver arriba ⬆️</a></p>
